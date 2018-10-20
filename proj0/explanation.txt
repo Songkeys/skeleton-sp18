@@ -1,1 +1,10 @@
-for the autograder
+For the autograder.
+
+Searching for explanation.txt in /autograder/submission/proj0/
+
+* The explanation.txt you included is not long enough. Please provide additional information.
+* Your final score will be zero until you do this.
+
+...
+
+Long enough now.
